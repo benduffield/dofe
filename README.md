@@ -1,2 +1,2 @@
 # dofe
-Duke of Edinburgh
+Duke of Edinburgh - this is my Duke of Edinburgh Award Skills project.
